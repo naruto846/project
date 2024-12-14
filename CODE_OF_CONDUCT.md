@@ -1,1 +1,1 @@
-CODE_OF_CONDUCT.md
+The repository includes a CODE_OF_CONDUCT.md file. This document outlines behavioral expectations for contributors and sets guidelines to create a respectful and inclusive community. It also provides steps for reporting misconduct, ensuring a positive experience for all participants.
